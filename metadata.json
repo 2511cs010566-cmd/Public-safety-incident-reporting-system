@@ -1,0 +1,11 @@
+{
+  "name": "SafeSphere - Public Safety & Emergency Response",
+  "description": "All-in-one public safety platform for emergency SOS, live location sharing, verified alerts, trusted contacts, and community safety reporting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
